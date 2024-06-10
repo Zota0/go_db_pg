@@ -5,9 +5,11 @@
 ## USAGE:
 ### Go to port: 9413(for now only changeable via editing main.go and recompiling)
 ### Create file `.env` for variables:
-<blockquote>
+
+<code>
   AUTH="<your_auth_key>"
   DB_URI="<your_connection_link>"
   DB_TABLE="<your_table_name>"
+</code>
 
-</blockquote>
+#### Write your ) 
